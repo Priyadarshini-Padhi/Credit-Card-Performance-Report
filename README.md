@@ -4,35 +4,26 @@ This repository contains the **Credit Card Performance Report** project, which i
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 | File / Folder                                   | Description                                           |
 |-------------------------------------------------|-------------------------------------------------------|
-| **Credit Card Report.pbit.zip**                 | Power BI report (template) for credit card performance dashboard. :contentReference[oaicite:2]{index=2} |
-| **Project Overview Credit Card Performance Dashboard (1).docx** | Detailed documentation explaining the project, metrics, and insights. :contentReference[oaicite:3]{index=3} |
-| **LICENSE**                                     | MIT License governing reuse of this repository. :contentReference[oaicite:4]{index=4} |
-| **README.md**                                   | This file — project overview and usage. :contentReference[oaicite:5]{index=5} |
+| **Credit Card Report.pbit.zip**                 | Power BI report (template) for credit card performance dashboard. |
+| **Project Overview Credit Card Performance Dashboard (1).docx** | Detailed documentation explaining the project, metrics, and insights.  |
+| **LICENSE**                                     | MIT License governing reuse of this repository.  |
+| **README.md**                                   | This file — project overview and usage.  |
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
-This project presents a **Credit Card Performance Dashboard** created using **Microsoft Power BI**. The dashboard enables exploration of financial metrics such as transaction trends, revenue, and other performance indicators that help understand credit card usage patterns and business outcomes. :contentReference[oaicite:6]{index=6}
+This project presents a **Credit Card Performance Dashboard** created using **Microsoft Power BI**. The dashboard enables exploration of financial metrics such as transaction trends, revenue, and other performance indicators that help understand credit card usage patterns and business outcomes. 
 
 The accompanying documentation provides context, interpretations, and explanations of the visuals, making it useful for stakeholders, analysts, and decision-makers.
 
 ---
 
-## 🛠 Tools Used
-
-- **Microsoft Power BI Desktop** — for building and interacting with the performance dashboard.
-- **Power BI Template (.pbit)** — the source dashboard file.
-- **Documentation (.docx)** — narrative explanation of analysis and insights.
-- **MIT License** — open source terms for reuse. :contentReference[oaicite:7]{index=7}
-
----
-
-## 📖 Topics Covered
+##  Topics Covered
 
 This project includes the following areas:
 
@@ -50,7 +41,7 @@ This project includes the following areas:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Download and unzip** the file `Credit Card Report.pbit.zip`.
 2. **Open** the `.pbit` file in **Microsoft Power BI Desktop**.
@@ -59,6 +50,6 @@ This project includes the following areas:
 
 ---
 
-## 📄 License
+##  License
 
-This project is licensed under the **MIT License** — see the LICENSE file for details. :contentReference[oaicite:8]{index=8}
+This project is licensed under the **MIT License** — see the LICENSE file for details. 
